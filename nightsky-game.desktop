@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=NightSky
+Comment=A 2D platformer in which you control a ball.
+Icon=nightsky-game
+Exec=nightsky-game
+Categories=Game;
